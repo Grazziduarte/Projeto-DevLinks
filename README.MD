@@ -34,7 +34,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 o Devlinks é um agregador de links para usar como cartão de visitas online.
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+
 
 ## 🔖 Layout
 
